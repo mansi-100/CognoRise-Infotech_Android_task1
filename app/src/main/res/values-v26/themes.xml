@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Bt_Operator" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">#727070</item>
+        <item name="android:textColor">@color/green</item>
+        <item name="android:fontWeight"></item>
+        <item name="android:textSize">25dp</item>
+    </style>
+</resources>
